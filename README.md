@@ -9,3 +9,6 @@ a place to store the `swift` code i learn or practice from ntu_ios
     4. using Tuple effectively
     5. struct & debug
 - [week1 source code](https://github.com/marjasback2bedge/ntu_ios/tree/main/week1)
+
+## week2
+- usage of swiftUI
