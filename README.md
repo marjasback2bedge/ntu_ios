@@ -10,5 +10,13 @@ a place to store the `swift` code i learn or practice from ntu_ios
     5. struct & debug
 - [week1 source code](https://github.com/marjasback2bedge/ntu_ios/tree/main/week1)
 
-## week2
+## Practice Project
 - usage of swiftUI
+    1. Hstack, Vstack, Zstack, Grid, etc..
+    2. view
+    3. functional call
+    4. frameworks logic
+    5. usage of enum
+    6. trailing closure
+
+    
